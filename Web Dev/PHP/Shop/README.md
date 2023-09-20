@@ -13,7 +13,7 @@ To set up and run this PHP eCommerce website on your local machine using the wam
 1. Clone this repository to your web server directory:
 
    ```bash
-   git clone https://github.com/stranger133/.git
+   git clone https://github.com/stranger133/Web Dev/PHP/Shop.git
 
 2. Create a MySQL database and import the provided SQL file to create the necessary tables.
 
