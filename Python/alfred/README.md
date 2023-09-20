@@ -33,7 +33,7 @@ To run Jarvis on your machine, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/stranger133/alfred.git
+   git clone https://github.com/stranger133/Projects/Python/alfred.git
 
 2. Change your working directory to the project folder:
 
