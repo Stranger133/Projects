@@ -1,0 +1,4 @@
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\ExCSharp\ExCSharp\bin\Debug\ExCSharp.exe
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\ExCSharp\ExCSharp\bin\Debug\ExCSharp.pdb
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\ExCSharp\ExCSharp\obj\x86\Debug\ExCSharp.exe
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\ExCSharp\ExCSharp\obj\x86\Debug\ExCSharp.pdb

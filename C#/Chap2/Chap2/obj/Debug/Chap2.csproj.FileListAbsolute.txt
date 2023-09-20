@@ -1,0 +1,4 @@
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\Chap2\Chap2\bin\Chap2.dll
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\Chap2\Chap2\bin\Chap2.pdb
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\Chap2\Chap2\obj\Debug\Chap2.dll
+C:\Users\Lagrange\Desktop\I\Programming\Projects\C#\Chap2\Chap2\obj\Debug\Chap2.pdb
