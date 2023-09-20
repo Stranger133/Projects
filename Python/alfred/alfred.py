@@ -53,15 +53,11 @@ def run_jarvis():
         talk('hello ' + name)
 
     elif 'beautiful' in command:
-        # command: is Ethan Beautiful
+        # command: is Ethan Beautiful?
         command = command.replace('beautiful', '')
         command = command.replace('is', '')
-        # command: Ethan
-        if 'stephen' in command:
-            talk('For sure not, Idiot')
-        else:
-            talk(command + ', is Beautiful Indeed')
-            # Ethan is Beautiful Indeed
+        talk(command + ', is Beautiful Indeed')
+        # Ethan is Beautiful Indeed
 
 
 # Play Music on youtube
@@ -70,6 +66,8 @@ def run_jarvis():
         pywhatkit.playonyt(song)
         print('playing {} ...'.format(song))
         talk('playing' + song)
+
+    
 # Search in Wikipedia
     elif 'what is' in command:
         try:
@@ -80,11 +78,14 @@ def run_jarvis():
         except:
             talk('No Search Results !!!!')
             pass
+
+    
 # Show and Read time
     elif 'time' in command:
         time = datetime.datetime.now().strftime('%I:%M %p')
         talk('It is ' + time)
 
+    
 
 # Translator
     elif 'translate' in command:
@@ -134,6 +135,8 @@ def run_jarvis():
             for i in numbers[1:]:
                 total = total * int(i)
             talk('It is equal to ' + str(total))
+
+    
 # Quotes
     elif 'quote' in command:
         if 'serie' in command:
