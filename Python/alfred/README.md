@@ -79,6 +79,8 @@ Once Jarvis is running, you can interact with it by speaking voice commands. Exa
 - "Tell me a quote from [category]."
 - "What time is it?"
 
+**Note**: Check out the source code for more functionalities.
+
 Jarvis will respond to your commands and perform the requested actions.
 
 ## License
